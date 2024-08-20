@@ -1,0 +1,10 @@
+{
+    "name": "Dearly Beloved ~Reprise~ - Kingdom Hearts",
+    "description": "Dearly Beloved ~Reprise~ from Kingdom Hearts as an audio pack. Source: Kingdom Hearts (2001)",
+    "author": "Mbrankin03",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
